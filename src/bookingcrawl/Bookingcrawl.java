@@ -2,7 +2,7 @@
  * Script Name: bookingcrawl.java
  * Description: Crawls all data about hotels in a city from www.booking.com
  *              and stores in a NOSQL database and in a file
- * Created By:  Eeran Maiti 11334191
+ * Created By:  Eeran Maiti
  * Date:        1 May 2014.
  * ******************************************/
 package bookingcrawl;
